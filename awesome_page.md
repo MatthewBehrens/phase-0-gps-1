@@ -7,3 +7,5 @@
 [This is a link.](www.google.com)
 
 ![Image of screenshot](/phase-0-gps-1/awesomescreenshot.png)
+
+This is a change.
